@@ -1,0 +1,10 @@
+name = "OrbitalEstimationPlayground"
+uuid = "6f54c320-9374-4167-89ca-88da796a9e4b"
+authors = ["thetazero <lesha.seletskiy@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GNCTestServer = "301134cd-0795-4287-8b73-e567f40fdffd"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
